@@ -19,13 +19,13 @@ h1 {
 	font-family: 'Monoton', cursive;
 	font-weight: normal;
 	text-align: center;
-	color: white;
+	color: white !important;
 }
 
 h2 {
     font-family: 'Reenie Beanie', cursive;
     margin: 15px 0;
-    color: white;
+    color: white !important;
     font-size: 40px;
 }
 
