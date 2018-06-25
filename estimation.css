@@ -12,18 +12,20 @@
 
 .contentGroup {
     width: 60%;
-    margin: 0 auto;
+    margin: 0 auto 30px;
 }
 
 h1 {
 	font-family: 'Monoton', cursive;
 	font-weight: normal;
 	text-align: center;
+	color: white;
 }
 
 h2 {
     font-family: 'Reenie Beanie', cursive;
     margin: 15px 0;
+    color: white;
     font-size: 40px;
 }
 
